@@ -1,1 +1,2 @@
 Hi from file 1.
+i am now changing the file for the first time.
